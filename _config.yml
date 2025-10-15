@@ -34,7 +34,7 @@ additional_links:
 # =====================================
 # SECCIÓN ACERCA DE MÍ
 # =====================================
-about_profile_image: images/Imagen de WhatsApp 2023-08-28 a las 15.49.00.jpg
+about_profile_image: "images/Imagen de WhatsApp 2023-08-28 a las 15.49.00.jpg"
 about_content: | # Este bloque acepta saltos de línea
 
   Soy un profesional en transición de la gastronomía al área de **aseguramiento de calidad de software (QA)**.  
