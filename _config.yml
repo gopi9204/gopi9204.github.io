@@ -231,5 +231,5 @@ sass:
   style: compressed
 
 include:
-  - assets/css/_custom.css
+  - assets/css/custom.css
   - _includes/head.html
