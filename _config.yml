@@ -170,7 +170,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: TripleTen
+        title: 'TripleTen <img src="images/tplogo.png" alt="TripleTen logo" width="28" style="margin-left:6px; vertical-align:middle;">'
         caption: 2025
         sub_title: QA Engineering Certificate
         quote: >
@@ -179,7 +179,7 @@ content:
           Formación práctica con enfoque en análisis de requisitos, pruebas manuales y documentación estructurada de errores.
 
       - layout: left
-        title: Instituto Suizo
+        title: 'Instituto IFRA <img src="images/ifralogo.png" alt="IFRA logo" width="28" style="margin-left:6px; vertical-align:middle;">'
         caption: 2023 - 2024
         sub_title: Maestría en Alta Dirección de Hoteles y Restaurantes
         quote: >
@@ -188,7 +188,7 @@ content:
           Desarrollo de competencias de gestión, liderazgo y planificación estratégica aplicadas al sector de servicios y procesos culinarios.
 
       - layout: left
-        title: Instituto Francés de Gastronomía
+        title:'Universidad ISU <img src="images/isulogo.png" alt="ISU logo" width="28" style="background:white; padding:4px; border-radius:4px; margin-left:6px; vertical-align:middle;">'
         caption: 2014 - 2018
         sub_title: Licenciatura en Gastronomía
         quote: >
