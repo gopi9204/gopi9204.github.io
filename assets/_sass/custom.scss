@@ -1,1 +1,43 @@
+/* ======= Galería de imágenes de proyectos ======= */
+.project-gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
 
+.project-gallery img {
+  width: 240px;         /* tamaño uniforme */
+  height: 160px;        /* proporción tipo miniatura */
+  object-fit: cover;    /* recorta sin deformar */
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.project-gallery img:hover {
+  transform: scale(1.05);
+}
+
+/* ======= Lightbox CSS ======= */
+.project-gallery img:target {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+  width: 90vw;
+  height: auto;
+  max-height: 90vh;
+  object-fit: contain;
+  border: 3px solid #fff;
+  box-shadow: 0 0 15px rgba(0,0,0,0.7);
+  background: rgba(0,0,0,0.9);
+}
+
+/* Cerrar imagen (al hacer clic fuera) */
+.project-gallery::after {
+  content: "";
+  display: none;
+}
