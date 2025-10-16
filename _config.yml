@@ -66,15 +66,15 @@ content:
           <div class="project-gallery">
             <!-- Imagen 1 -->
             <a href="#api1"><img src="images/Proyecto0401.png" alt="Prueba API 1"></a>
-            <a href="#_" class="lightbox" id="api1"><img src="images/Proyecto0401.png"></a>
+            <a href="#_" class="lightbox" id="api1"><img src="images/Proyecto0401.png" alt="Prueba API 1"></a>
 
             <!-- Imagen 2 -->
             <a href="#api2"><img src="images/Proyecto0402.png" alt="Prueba API 2"></a>
-            <a href="#_" class="lightbox" id="api2"><img src="images/Proyecto0402.png"></a>
+            <a href="#_" class="lightbox" id="api2"><img src="images/Proyecto0402.png" alt="Prueba API 2"></a>
 
             <!-- Imagen 3 -->
             <a href="#api3"><img src="images/Proyecto0403.png" alt="Prueba API 3"></a>
-            <a href="#_" class="lightbox" id="api3"><img src="images/Proyecto0403.png"></a>
+            <a href="#_" class="lightbox" id="api3"><img src="images/Proyecto0403.png" alt="Prueba API 3"></a>
           </div>
 
       - layout: top-middle
@@ -92,15 +92,15 @@ content:
           <div class="project-gallery">
             <!-- Imagen 1 -->
             <a href="#web1"><img src="images/Proyecto0301.png" alt="Prueba aplicaciones web 1"></a>
-            <a href="#_" class="lightbox" id="web1"><img src="images/Proyecto0301.png"></a>
+            <a href="#_" class="lightbox" id="web1"><img src="images/Proyecto0301.png" alt="Prueba aplicaciones web 1"></a>
 
             <!-- Imagen 2 -->
             <a href="#web2"><img src="images/Proyecto0302.png" alt="Prueba aplicaciones web 2"></a>
-            <a href="#_" class="lightbox" id="web2"><img src="images/Proyecto0302.png"></a>
+            <a href="#_" class="lightbox" id="web2"><img src="images/Proyecto0302.png" alt="Prueba aplicaciones web 2"></a>
 
             <!-- Imagen 3 -->
             <a href="#web3"><img src="images/Proyecto0303.png" alt="Prueba aplicaciones web 3"></a>
-            <a href="#_" class="lightbox" id="web3"><img src="images/Proyecto0303.png"></a>
+            <a href="#_" class="lightbox" id="web3"><img src="images/Proyecto0303.png" alt="Prueba aplicaciones web 3"></a>
           </div>
 
       - layout: top-middle
@@ -118,11 +118,11 @@ content:
           <div class="project-gallery">
             <!-- Imagen 1 -->
             <a href="#dpr1"><img src="images/Proyecto0201.png" alt="Documentación pruebas 1"></a>
-            <a href="#_" class="lightbox" id="dpr1"><img src="images/Proyecto0201.png"></a>
+            <a href="#_" class="lightbox" id="dpr1"><img src="images/Proyecto0201.png" alt="Documentación pruebas 1"></a>
 
             <!-- Imagen 2 -->
             <a href="#dpr2"><img src="images/Proyecto0202.png" alt="Documentación pruebas 2"></a>
-            <a href="#_" class="lightbox" id="dpr2"><img src="images/Proyecto0202.png"></a>
+            <a href="#_" class="lightbox" id="dpr2"><img src="images/Proyecto0202.png" alt="Documentación pruebas 2"></a>
           </div>
 
       - layout: top-middle
@@ -140,11 +140,11 @@ content:
           <div class="project-gallery">
             <!-- Imagen 1 -->
             <a href="#prg1"><img src="images/Proyecto0101.png" alt="Prueba regresión 1"></a>
-            <a href="#_" class="lightbox" id="prg1"><img src="images/Proyecto0101.png"></a>
+            <a href="#_" class="lightbox" id="prg1"><img src="images/Proyecto0101.png" alt="Prueba regresión 1"></a>
 
             <!-- Imagen 2 -->
             <a href="#prg2"><img src="images/Proyecto0102.png" alt="Prueba regresión 2"></a>
-            <a href="#_" class="lightbox" id="prg2"><img src="images/Proyecto0102.png"></a>
+            <a href="#_" class="lightbox" id="prg2"><img src="images/Proyecto0102.png" alt="Prueba regresión 2"></a>
           </div>
 
   - title: Experiencia Profesional
