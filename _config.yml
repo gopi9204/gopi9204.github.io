@@ -63,6 +63,13 @@ content:
         description: |
           Diseñé y ejecuté casos de prueba en Postman, verificando endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos. Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
 
+
+<div class="project-gallery">
+        <a href="#api1"><img id="api1" src="images/Proyecto0401.png" alt="Prueba API 1"></a>
+        <a href="#api2"><img id="api2" src="images/Proyecto0402.png" alt="Prueba API 2"></a>
+        <a href="#api3"><img id="api3" src="images/Proyecto0403.png" alt="Prueba API 3"></a>
+      </div>
+
       - layout: top-middle
         title: Pruebas de aplicaciones web
         link: github.com/gopi9204
@@ -74,6 +81,13 @@ content:
           Validación funcional y visual del módulo “Compartir automóvil”.
         description: |
           Diseñé listas de comprobación y casos de prueba en distintos navegadores, documentando defectos con evidencia reproducible y criterios de severidad, mejorando la estabilidad del flujo de usuario.
+
+
+<div class="project-gallery">
+        <a href="#aweb1"><img id="aweb1" src="images/Proyecto0301.png" alt="Prueba aplicaciones web 1"></a>
+        <a href="#aweb2"><img id="aweb2" src="images/Proyecto0302.png" alt="Prueba aplicaciones web 2"></a>
+        <a href="#aweb3"><img id="aweb3" src="images/Proyecto0303.png" alt="Prueba aplicaciones web 3"></a>
+      </div>
 
       - layout: top-middle
         title: Documentación de pruebas
@@ -87,6 +101,12 @@ content:
         description: |
           Analicé requisitos y apliqué técnicas de diseño de pruebas con clases de equivalencia y valores límite, asegurando cobertura funcional y validación de entradas en el flujo de registro de licencias.
 
+
+<div class="project-gallery">
+        <a href="#dpr1"><img id="dpr1" src="images/Proyecto0201.png" alt="Documentación pruebas 1"></a>
+        <a href="#dpr2"><img id="dpr2" src="images/Proyecto0202.png" alt="Documentación pruebas 2"></a>
+      </div>
+
       - layout: top-middle
         title: Pruebas de regresión - Urban Routes
         link: github.com/gopi9204
@@ -98,6 +118,12 @@ content:
           Ejecución de pruebas de regresión sobre aplicación de transporte.
         description: |
           Verifiqué cálculo de rutas, duración y tarifas tras actualizaciones, identificando errores en interfaz y lógica de negocio, fortaleciendo la trazabilidad y la consistencia de reportes QA.
+
+
+<div class="project-gallery">
+        <a href="#prg1"><img id="prg1" src="images/Proyecto0101.png" alt="Prueba regresión 1"></a>
+        <a href="#prg2"><img id="prg2" src="images/Proyecto0102.png" alt="Prueba regresión 2"></a>
+      </div>
 
   - title: Experiencia Profesional
     layout: list
@@ -177,7 +203,8 @@ remote_theme: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-
+  load_paths:
+    - _sass
 plugins:
  - jekyll-seo-tag
 
