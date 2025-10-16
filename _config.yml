@@ -203,6 +203,7 @@ sass:
 
 include:
   - assets/css/custom.css
+  - _includes/head.html
 
 plugins:
   - jekyll-seo-tag
