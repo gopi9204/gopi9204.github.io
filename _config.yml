@@ -1,3 +1,74 @@
+   # =====================================
+# CONFIGURACIÓN DEL SITIO
+# =====================================
+repository: gopi9204/gopi9204.github.io
+favicon: images/favicon.ico
+
+version: 2
+darkmode: false
+
+# =====================================
+# INFORMACIÓN PERSONAL
+# =====================================
+name: Israel González Pineda
+title: Tester de Software - QA Engineer
+email: israel.gopi@gmail.com
+website: https://github.com/gopi9204
+
+# =====================================
+# REDES SOCIALES
+# =====================================
+github_username: gopi9204
+linkedin_username: gopi92
+instagram_username: isra15gp
+# No incluimos YouTube ni Behance por ahora
+
+# =====================================
+# ENLACES ADICIONALES (opcional)
+# =====================================
+additional_links:
+  - title: Portafolio QA
+    icon: fas fa-folder-open
+    url: https://github.com/gopi9204?tab=repositories
+
+# =====================================
+# SECCIÓN ACERCA DE MÍ
+# =====================================
+about_title: Acerca de mí
+about_profile_image: "images/Imagen de WhatsApp 2023-08-28 a las 15.49.00.jpg"
+about_content: | # Este bloque acepta saltos de línea
+
+  Soy un profesional en transición de la gastronomía al área de **aseguramiento de calidad de software (QA)**.  
+  Actualmente desarrollo mis habilidades en **pruebas funcionales, validación de API, análisis de requisitos y documentación de errores**, aplicando principios de precisión, trazabilidad y mejora continua.
+
+  Mi formación en cocina profesional me otorgó una mentalidad rigurosa hacia los **procesos, la estandarización y el control de calidad**, cualidades que hoy aplico en el ámbito tecnológico.  
+  Busco consolidarme como QA Engineer especializado en automatización y control de calidad de software, combinando la disciplina operativa con la lógica estructurada del testing.
+
+# =====================================
+# CONTENIDO PRINCIPAL
+# =====================================
+content:
+  - title: Proyectos QA
+    layout: list
+    content:
+      - layout: top-middle
+        title: Pruebas de API
+        link: github.com/gopi9204
+        additional_links:
+          - title: Ver repositorio
+            icon: fab fa-github
+            url: https://github.com/gopi9204
+        quote: >
+          Validación de módulos “Kits” y “Order and Go” mediante pruebas de API.
+        description: |
+          Diseñé y ejecuté casos de prueba en Postman, verificando endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos. Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
+
+          <div class="project-gallery">
+            <img src="images/Proyecto0401.png" alt="Prueba API 1">
+            <img src="images/Proyecto0402.png" alt="Prueba API 2">
+            <img src="images/Proyecto0403.png" alt="Prueba API 3">
+          </div>
+
       - layout: top-middle
         title: Pruebas de aplicaciones web
         link: github.com/gopi9204
@@ -49,3 +120,86 @@
             <img src="images/Proyecto0101.png" alt="Prueba regresión 1">
             <img src="images/Proyecto0102.png" alt="Prueba regresión 2">
           </div>
+
+  - title: Experiencia Profesional
+    layout: list
+    content:
+      - layout: left
+        title: Uber
+        link: https://www.uber.com/mx/es/
+        sub_title: Conductor socio
+        caption: Oct 2024 - Jun 2025
+        quote: >
+          Atención al cliente, gestión de rutas y cumplimiento de estándares de calidad.
+        description: |
+          Implementé planificación eficiente de rutas y atención personalizada, obteniendo calificaciones promedio de 4.98. Apliqué protocolos de seguridad y control preventivo en cada servicio.
+
+      - layout: left
+        title: Costa Palmas
+        link: https://www.costapalmas.com/
+        sub_title: Área de Cocina y Pastelería
+        caption: Ene 2024 - Oct 2024
+        quote: >
+          Resort de lujo especializado en gastronomía internacional.
+        description: |
+          Implementé control de inventarios y estandarización en el montaje de platillos y postres, reduciendo desperdicios y asegurando calidad visual y sensorial, aplicando principios de control de procesos.
+
+  - title: Educación
+    layout: list
+    content:
+      - layout: left
+        title: TripleTen
+        caption: 2025
+        sub_title: QA Engineering Certificate
+        quote: >
+          Programa enfocado en pruebas funcionales, API y documentación QA.
+        description: |
+          Formación práctica con enfoque en análisis de requisitos, pruebas manuales y documentación estructurada de errores.
+
+      - layout: left
+        title: Instituto Suizo
+        caption: 2023 - 2024
+        sub_title: Maestría en Alta Dirección de Hoteles y Restaurantes
+        quote: >
+          Programa de gestión operativa, liderazgo y control de calidad en hospitalidad.
+        description: |
+          Desarrollo de competencias de gestión, liderazgo y planificación estratégica aplicadas al sector de servicios y procesos culinarios.
+
+      - layout: left
+        title: Instituto Francés de Gastronomía
+        caption: 2014 - 2018
+        sub_title: Licenciatura en Gastronomía
+        quote: >
+          Formación integral en técnicas culinarias, pastelería y control de procesos.
+        description: |
+          Enfoque en estándares de calidad, creatividad gastronómica y disciplina operativa, bases que inspiran mi enfoque analítico en QA.
+
+  - title: Habilidades Técnicas
+    layout: text
+    content: |
+      - Pruebas funcionales y de regresión manual  
+      - Validación de API con Postman  
+      - Diseño de casos de prueba (clases de equivalencia y valores límite)  
+      - Documentación de errores en Jira  
+      - Análisis de requisitos funcionales  
+      - Control de calidad y mejora de procesos  
+      - Inglés avanzado (C1)
+
+# =====================================
+# PIE DE PÁGINA
+# =====================================
+footer_show_references: true
+references_title: Referencias disponibles a solicitud
+
+# =====================================
+# CONFIGURACIÓN DE CONSTRUCCIÓN
+# =====================================
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
