@@ -66,11 +66,12 @@ content:
           Fortalecí la estabilidad de la API y la detección temprana de errores críticos en los servicios de entrega y manipulación de kits, mejorando la cobertura de pruebas y la trazabilidad de reportes.
 
 
-          <div class="project-gallery">
-            <img src="images/Proyecto0401.png" alt="Prueba API 1" width="700">
-            <img src="images/Proyecto0402.png" alt="Prueba API 2" width="700">
-            <img src="images/Proyecto0403.png" alt="Prueba API 3" width="700">
+          <div class="project-gallery" style="text-align:center;">
+            <img src="images/Proyecto0401.png" alt="Prueba API 1" width="750">
+            <img src="images/Proyecto0402.png" alt="Prueba API 2" width="750">
+            <img src="images/Proyecto0403.png" alt="Prueba API 3" width="750">
           </div>
+
 
       - layout: top-middle
         title: Pruebas de aplicaciones web
