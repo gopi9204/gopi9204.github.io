@@ -51,17 +51,19 @@ content:
   - title: Proyectos QA
     layout: list
     content:
+     
       - layout: top-middle
-        title: Pruebas de API
-        link: github.com/gopi9204
-        additional_links:
-          - title: Ver repositorio
-            icon: fab fa-github
-            url: https://github.com/gopi9204
-        quote: >
-          Validación de módulos “Kits” y “Order and Go” mediante pruebas de API.
-        description: |
-          Diseñé y ejecuté casos de prueba en Postman, verificando endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos. Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
+    title: Pruebas de API
+    quote: >
+      Validación de módulos “Kits” y “Order and Go” mediante pruebas de API.
+    description: |
+      Diseñé y ejecuté casos de prueba en Postman, verificando endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos.  
+      Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
+
+      <div class="project-gallery">
+        <img src="images/Proyecto0402.png" alt="Prueba API 1">
+        <img src="images/Proyecto0403.png" alt="Prueba API 2">
+      </div>
 
       - layout: top-middle
         title: Pruebas de aplicaciones web
