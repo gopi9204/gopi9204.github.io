@@ -61,8 +61,8 @@ content:
       Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
 
       <div class="project-gallery">
-        <img src="images/Proyecto0402.png" alt="Prueba API 1">
-        <img src="images/Proyecto0403.png" alt="Prueba API 2">
+        <img src=images/Proyecto0402 alt="Prueba API 1">
+        <img src=images/Proyecto0403 alt="Prueba API 2">
       </div>
 
       - layout: top-middle
