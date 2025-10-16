@@ -67,9 +67,9 @@ content:
 
 
           <div class="project-gallery">
-            <img src="images/Proyecto0401.png" alt="Prueba API 1">
-            <img src="images/Proyecto0402.png" alt="Prueba API 2">
-            <img src="images/Proyecto0403.png" alt="Prueba API 3">
+            <img src="images/Proyecto0401.png" alt="Prueba API 1" width="260">
+            <img src="images/Proyecto0402.png" alt="Prueba API 2" width="260">
+            <img src="images/Proyecto0403.png" alt="Prueba API 3" width="260">
           </div>
 
       - layout: top-middle
