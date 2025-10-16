@@ -176,7 +176,9 @@ content:
         quote: >
           Programa enfocado en pruebas funcionales, API y documentación QA.
         description: |
-          Formación práctica con enfoque en análisis de requisitos, pruebas manuales y documentación estructurada de errores.
+          Formación intensiva enfocada en aseguramiento de calidad de software (QA), abarcando pruebas funcionales, de regresión y validación de API.
+          Durante el programa, se aplicaron metodologías de diseño de casos de prueba, análisis de clases de equivalencia y valores límite utilizando Postman y SQL para la verificación de datos.
+          Se desarrollaron habilidades en documentación de defectos con Jira, automatización inicial de pruebas con Selenium, y seguimiento de ciclos de prueba para garantizar la estabilidad y trazabilidad del producto.
 
       - layout: left
         title: 'Universidad ISU <img src="images/isulogo.png" alt="ISU logo" width="60" style="background:white; padding:4px; border-radius:4px; float:right; margin-left:10px; vertical-align:middle;">'
@@ -185,7 +187,9 @@ content:
         quote: >
           Programa de gestión operativa, liderazgo y control de calidad en hospitalidad.
         description: |
-          Desarrollo de competencias de gestión, liderazgo y planificación estratégica aplicadas al sector de servicios y procesos culinarios.
+          Formación estratégica en gestión operativa, liderazgo y control de calidad en el sector hotelero y gastronómico.
+          Aborda planificación financiera, marketing de servicios, normativas internacionales, experiencia del cliente y procesos de mejora continua en hospitalidad.
+          Desarrollé habilidades de toma de decisiones basadas en indicadores, auditoría operativa y optimización de recursos, competencias que se trasladan perfectamente al enfoque metódico del QA.
 
       - layout: left
         title: 'Instituto IFRA <img src="images/ifralogo.png" alt="IFRA logo" width="48"; margin-left:10px; vertical-align:middle;">'
@@ -194,7 +198,9 @@ content:
         quote: >
           Formación integral en técnicas culinarias, pastelería y control de procesos.
         description: |
-          Enfoque en estándares de calidad, creatividad gastronómica y disciplina operativa, bases que inspiran mi enfoque analítico en QA.
+          Programa práctico en técnicas avanzadas de panadería y pastelería, con énfasis en levaduras, masa madre, fermentación y técnicas de decoración artística.
+          Incluye control de calidad sensorial, normas sanitarias de producción alimentaria y estandarización de recetas para asegurar consistencia entre lotes.
+          Aprendí manejo profesional de hornos, balance de fórmulas y escalamiento de producción, competencias que fortalecen disciplina operativa, meticulosidad y enfoque estratégico.
 
   - title: Habilidades Técnicas
     layout: text
