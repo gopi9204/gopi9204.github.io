@@ -201,13 +201,14 @@ sass:
   sass_dir: _sass
   style: compressed
   include:
-  - assets/css/custom.css
+   - assets/css/custom.css
 
-head_scripts:
-  - '<link rel="stylesheet" href="/assets/css/custom.css">'
 
 plugins:
  - jekyll-seo-tag
+
+ head_scripts:
+  - '<link rel="stylesheet" href="/assets/css/custom.css">'
 
  
 
