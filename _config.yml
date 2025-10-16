@@ -141,7 +141,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 'Uber <img src="images/uberlogo.png" alt="Uber logo" width="22" style="margin-left:6px; vertical-align:middle;">'
+        title: 'Uber <img src="images/uberlogo.png" alt="Uber logo" width="28" style="margin-left:6px; vertical-align:middle;">'
         link: https://www.uber.com/mx/es/
         sub_title: Conductor socio
         caption: Oct 2024 - Jun 2025
@@ -154,7 +154,7 @@ content:
           Mantuve un registro sistemático de incidencias y retroalimentación, aplicando metodologías de mejora continua.
 
       - layout: left
-        title: 'Costa Palmas <img src="images/costalogo.svg" alt="Costa Palmas logo" width="22" style="margin-left:6px; vertical-align:middle;">'
+        title: 'Costa Palmas <img src="images/costalogo.svg" alt="Costa Palmas logo" width="28" style="margin-left:6px; vertical-align:middle;">'
         link: https://www.costapalmas.com/
         sub_title: Área de Cocina y Pastelería
         caption: Ene 2024 - Oct 2024
