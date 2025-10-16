@@ -88,11 +88,12 @@ content:
           Contribuí a mejorar la estabilidad del módulo de reservas y la calidad del flujo de usuario mediante la detección temprana de errores de diseño y funcionalidad.
 
 
-          <div class="project-gallery">
-            <img src="images/Proyecto0301.png" alt="Prueba aplicaciones web 1">
-            <img src="images/Proyecto0302.png" alt="Prueba aplicaciones web 2">
-            <img src="images/Proyecto0303.png" alt="Prueba aplicaciones web 3">
+          <div class="project-gallery" style="text-align:center;">
+            <img src="images/Proyecto0301.png" alt="Prueba aplicaciones web 1" width="750">
+            <img src="images/Proyecto0302.png" alt="Prueba aplicaciones web 2" width="750">
+            <img src="images/Proyecto0303.png" alt="Prueba aplicaciones web 3" width="750">
           </div>
+
 
       - layout: top-middle
         title: Documentación de pruebas
@@ -109,10 +110,11 @@ content:
           Aseguré la cobertura funcional del flujo de registro de licencias y la correcta validación de entradas, mejorando la precisión de los criterios de aceptación.
 
 
-          <div class="project-gallery">
-            <img src="images/Proyecto0201.png" alt="Documentación pruebas 1">
-            <img src="images/Proyecto0202.png" alt="Documentación pruebas 2">
+          <div class="project-gallery" style="text-align:center;">
+            <img src="images/Proyecto0201.png" alt="Documentación pruebas 1" width="750">
+            <img src="images/Proyecto0202.png" alt="Documentación pruebas 2" width="750">
           </div>
+
 
       - layout: top-middle
         title: Pruebas de regresión - Urban Routes
@@ -129,10 +131,11 @@ content:
           Contribuí a mejorar la calidad del producto al reducir el número de defectos no detectados en versiones previas y asegurar la cobertura total de los módulos funcionales.
 
 
-          <div class="project-gallery">
-            <img src="images/Proyecto0101.png" alt="Prueba regresión 1">
-            <img src="images/Proyecto0102.png" alt="Prueba regresión 2">
+          <div class="project-gallery" style="text-align:center;">
+            <img src="images/Proyecto0101.png" alt="Prueba regresión 1" width="750">
+            <img src="images/Proyecto0102.png" alt="Prueba regresión 2" width="750">
           </div>
+
 
   - title: Experiencia Profesional
     layout: list
