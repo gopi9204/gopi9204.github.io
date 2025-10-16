@@ -51,7 +51,6 @@ content:
   - title: Proyectos QA
     layout: list
     content:
-     
       - layout: top-middle
     title: Pruebas de API
     quote: >
