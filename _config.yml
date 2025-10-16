@@ -143,7 +143,7 @@ content:
       - layout: left
         title: 'Uber <img src="images/uberlogo.png" alt="Uber logo" width="28" style="margin-left:6px; vertical-align:middle;">'
         link: https://www.uber.com/mx/es/
-        sub_title: Conductor socio
+        sub_title: Socio Conductor
         caption: Oct 2024 - Jun 2025
         quote: >
           Atención al cliente, gestión de rutas y cumplimiento de estándares de calidad.
