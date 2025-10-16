@@ -8,8 +8,8 @@
 }
 
 .project-gallery img {
-  width: 240px;
-  height: 160px;
+  width: 240px !important;        /* miniatura */
+  height: 160px !important;       /* proporción */
   object-fit: cover;
   border-radius: 8px;
   cursor: pointer;
@@ -22,7 +22,7 @@
   box-shadow: 0 5px 12px rgba(0,0,0,0.4);
 }
 
-/* ======= Lightbox CSS ======= */
+/* ======= Lightbox ======= */
 .project-gallery img:target {
   position: fixed;
   top: 50%;
@@ -37,3 +37,4 @@
   box-shadow: 0 0 15px rgba(0,0,0,0.7);
   background: rgba(0,0,0,0.9);
 }
+
