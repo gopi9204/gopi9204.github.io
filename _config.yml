@@ -200,15 +200,12 @@ remote_theme: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-  include:
-   - assets/css/custom.css
 
+include:
+  - assets/css/custom.css
 
 plugins:
-- jekyll-seo-tag
+  - jekyll-seo-tag
 
- head_scripts:
+head_scripts:
   - '<link rel="stylesheet" href="/assets/css/custom.css">'
-
- 
-
