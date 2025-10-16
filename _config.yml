@@ -61,7 +61,10 @@ content:
         quote: >
           Validación de módulos “Kits” y “Order and Go” mediante pruebas de API.
         description: |
-          Diseñé y ejecuté casos de prueba en Postman, verificando endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos. Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
+          Analicé los nuevos requisitos del backend para los módulos Kits y Order and Go, diseñando y ejecutando casos de prueba de API en Postman para validar endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos.
+          Documenté defectos funcionales en Jira, identificando errores en la validación del cuerpo de la solicitud, límites de productos y estructura de datos, lo que permitió al equipo de desarrollo corregir la lógica del backend y mejorar la consistencia de las respuestas HTTP.
+          Logro o impacto: Fortalecí la estabilidad de la API y la detección temprana de errores críticos en los servicios de entrega y manipulación de kits, mejorando la cobertura de pruebas y la trazabilidad de reportes.
+
 
           <div class="project-gallery">
             <img src="images/Proyecto0401.png" alt="Prueba API 1">
