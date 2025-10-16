@@ -59,7 +59,6 @@ content:
     description: |
       Diseñé y ejecuté casos de prueba en Postman, verificando endpoints, parámetros y respuestas bajo distintos escenarios positivos y negativos.  
       Documenté errores en Jira y mejoré la consistencia de respuestas del backend.
-
       <div class="project-gallery">
         <img src=images/"Proyecto0402.png" alt="Prueba API 1">
         <img src=images/"Proyecto0403.png" alt="Prueba API 2">
