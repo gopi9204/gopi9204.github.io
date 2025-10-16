@@ -227,9 +227,9 @@ plugins:
   - jekyll-seo-tag
   
 sass:
-  sass_dir: _sass
+  sass_dir: assets/css
   style: compressed
 
 include:
-  - assets/css/custom.css
+  - assets/css/_custom.css
   - _includes/head.html
