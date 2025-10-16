@@ -205,7 +205,7 @@ sass:
 
 
 plugins:
- - jekyll-seo-tag
+- jekyll-seo-tag
 
  head_scripts:
   - '<link rel="stylesheet" href="/assets/css/custom.css">'
