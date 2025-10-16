@@ -197,6 +197,10 @@ references_title: Referencias disponibles a solicitud
 # =====================================
 remote_theme: sproogen/resume-theme
 
+
+plugins:
+  - jekyll-seo-tag
+  
 sass:
   sass_dir: _sass
   style: compressed
@@ -204,9 +208,3 @@ sass:
 include:
   - assets/css/custom.css
   - _includes/head.html
-
-plugins:
-  - jekyll-seo-tag
-
-head_scripts:
-  - '<link rel="stylesheet" href="/assets/css/custom.css">'
